@@ -1,0 +1,9 @@
+// links to course assets
+
+ <source id="src-04" src="http://mainline.i3s.unice.fr/mooc/elephants-dream-medium.mp4" type="video/mp4">
+
+<source id="src-0m" src="http://mainline.i3s.unice.fr/mooc/elephants-dream-medium.webm" type="video/webm">
+
+<track label="English subtitles" kind="subtitles" srclang="en"  src="http://mainline.i3s.unice.fr/mooc/elephants-dream-subtitles-en.vtt">
+
+<track label="English chapters" kind="chapters" srclang="en"  src="http://mainline.i3s.unice.fr/mooc/elephants-dream-subtitles-en.vtt">
